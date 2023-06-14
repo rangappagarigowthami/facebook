@@ -1,4 +1,4 @@
-adding this line in dev branch
+adding this line in dev brancih
 
 this file containes the deployment status
 hello..
